@@ -32,10 +32,10 @@
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.64.0",
         "laminas/laminas-mail": "^2.25.1",
-        "phpstan/phpstan": "^1.12.4",
+        "../Kzas-Backend/vendor/phpstan/phpstan": "^1.12.4",
         "phpstan/phpstan-phpunit": "^1.4.0",
         "phpstan/phpstan-strict-rules": "^1.6.1",
-        "phpunit/phpunit": "^11.3.6"
+        "../Kzas-Backend/vendor/phpunit/phpunit": "^11.3.6"
     },
     "autoload": {
         "psr-4": {
